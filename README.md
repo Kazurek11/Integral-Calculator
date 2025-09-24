@@ -1,4 +1,3 @@
-
 # Numerical Integration Methods in C
 
 <p align="center">

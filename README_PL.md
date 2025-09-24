@@ -1,7 +1,3 @@
-Z przyjemnością. Oto profesjonalnie sformatowana wersja Twojego pliku README w języku polskim, z zachowaniem wszystkich estetycznych ulepszeń z poprzedniej odpowiedzi.
-
----
-
 # Metody Całkowania Numerycznego w Języku C
 
 <p align="center">
